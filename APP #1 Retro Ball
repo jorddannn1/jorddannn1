@@ -1,2 +1,7 @@
 npm install -g expo-cli
 npx expo start
+npm install -g eas-cli
+eas login
+eas build:configure
+eas device:create
+
