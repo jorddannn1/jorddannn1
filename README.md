@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @jorddannn1
-- 👀 I’m interested in various sports
-- 🌱 I’m currently learning how to code 
-- 💞️ I’m looking to collaborate with others 
-- 📫 How to reach me- jordanmccray253@gmail.com
+👋 Hi, I’m Jordan McCray
+
+🌱 I’m building apps, analyzing data, and working in accounting & finance.
+
+💻 Currently developing digital products and platforms.
+
+💞️ I’m looking to collaborate with developers, creators, and entrepreneurs.
+
+📫 Reach me: jordanmccray253@gmail.com
 
 <!---
 jorddannn1/jorddannn1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
