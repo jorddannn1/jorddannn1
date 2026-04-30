@@ -1,8 +1,8 @@
 👋 Hi, I’m Jordan McCray
 
-🌱 I build apps, analyzing data, and working in accounting & finance.
+🌱 I build apps and KPI's Dashboards for private companies. 
 
-💻 Currently developing digital products and platforms.
+💻 Currently developing digital products and platforms. Projects are currently hidden. 
 
 💞️ I’m looking to collaborate with developers, creators, and entrepreneurs.
 
