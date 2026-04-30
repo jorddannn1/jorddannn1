@@ -1,6 +1,6 @@
 👋 Hi, I’m Jordan McCray
 
-🌱 I’m building apps, analyzing data, and working in accounting & finance.
+🌱 I build apps, analyzing data, and working in accounting & finance.
 
 💻 Currently developing digital products and platforms.
 
