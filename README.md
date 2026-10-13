@@ -1,10 +1,10 @@
 👋 Hi, I’m Jordan McCray
 
-🌱 I build apps and KPI's Dashboards for private companies. 
+🌱 I build apps and KPI's Dashboards for companies. Master of Analytics Specializing in tax compliance, financial reporting, automated workflows, and data analytics. 
 
 💻 Currently developing digital products and platforms. Projects are currently hidden. 
 
-💞️ I’m looking to collaborate with developers, creators, and entrepreneurs.
+💞️ I’m looking to collaborate with developers, creators, and entrepreneurs. 
 
 📫 Reach me: jordanmccray253@gmail.com
 
